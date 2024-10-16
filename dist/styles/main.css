@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Space Mono, sans-serif;
+}
+
+body {
+  background-color: #eee;
+  place-content: center;
+  width: 100%;
+  min-height: 100vh;
+  display: grid;
+}
+
+.gif {
+  justify-content: center;
+  width: 100%;
+  margin: 0 auto 64px;
+  display: flex;
+}
+/*# sourceMappingURL=main.css.map */
